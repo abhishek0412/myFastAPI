@@ -11,6 +11,7 @@ class Item(BaseModel):
     price: float
     tax: Optional[float] = None
 
+app = FastAPI()
 
 # all the get call
 @app.get("/")
@@ -41,3 +42,7 @@ async def create_item(item: Item):
         item_dict.update({"price_with_tax": price_with_tax})
     return item_dict
 
+# all the put calls
+@app.put("/items/{item_id}")
+async def create_item(item_id: int, item: Item):
+    return {"item_id": item_id, **item.dict()}
