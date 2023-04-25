@@ -6,6 +6,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) &nbsp;
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/abhishekchoudharry/myfastapi) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com) &nbsp;
 
@@ -55,6 +56,11 @@ Clone down this repository. You will need `python` and `git` installed globally 
 Runs the app in the development mode.\
 Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
 The page will reload if you make edits.
+
+
+## 🐳 Docker image path for Docker-Hub
+
+docker pull abhishekchoudharry/myfastapi:v1.0
 
 <div align="center">
 
