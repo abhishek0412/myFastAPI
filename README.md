@@ -63,6 +63,9 @@ The page will reload if you make edits.
 
 # Get call for FAST API Dcocumentation
 ![my get call](images/myget.png)
+
+# Thunder client output
+![Thunder client output](images/thunderclient.png)
 </div>
 
 ### Show your support
