@@ -5,6 +5,9 @@ from typing import Optional
 from fastapi import FastAPI
 from pydantic import BaseModel
 
+import getpass
+
+
 class Item(BaseModel):
     name: str
     description: Optional[str] = None
@@ -25,7 +28,7 @@ async def read_item(item_id: int):
 
 @app.get("/users/me")
 async def read_user_me():
-    return {"user_id": "the current user"}
+    return {"user_id": getpass.getuser()}
 
 @app.get("/users/{user_id}")
 async def read_user(user_id: str):
