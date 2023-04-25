@@ -11,11 +11,21 @@
 
 </center>
 
+
+<h3 align="center">
+    🔹
+    <a href="https://github.com/abhishek0412/myFastAPI/issues">Report Bug</a> &nbsp; &nbsp;
+    🔹
+    <a href="https://github.com/abhishek0412/myFastAPI/issues">Request Feature</a>
+</h3>
+
+</br>
+
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [abhishek0412](https://github.com/abhishek0412/myFastAPI). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://github.com/abhishek0412/myFastAPI" target="_blank">Abhishek Choudhary</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal FAST API <a href="https://github.com/abhishek0412/myFastAPI" target="_blank">Abhishek Choudhary</a> which features some of my learning with FAST API and technical skills gained.<br/>
 
 This project was built using these technologies.
 
