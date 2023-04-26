@@ -9,7 +9,7 @@
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/abhishekchoudharry/myfastapi) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com) &nbsp;
-
+<img src="https://komarev.com/ghpvc/?username=abhishek0412&style=flat-square&color=blue" alt=""/>
 </center>
 
 
